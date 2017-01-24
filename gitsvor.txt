@@ -5,7 +5,7 @@
 	ls sér hvaða möppur eru í möppunni sem þú ert í
 	pwd það prentar út hvaða möppur þú ert í
 	mkdir býr til möppu
-
+var búinn að svar sp 2
 2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
 	git clone copyar í aðra möppu
 	git log sýnir history
