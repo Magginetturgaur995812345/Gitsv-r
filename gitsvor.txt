@@ -1,34 +1,8 @@
-#Gitspurningar og svör
+#Git spurningar og svör
+
 1. Hvað gera eftirfarandi Linux skipanir?
-	cd færir þig inn og út úr möppum
-	cd ~ færir þig á heimasvæði þitt
-	ls sér hvaða möppur eru í möppunni sem þú ert í
-	pwd það prentar út hvaða möppur þú ert í
-	mkdir býr til möppu
-var búinn að svar sp 2
-2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
-	git clone copyar í aðra möppu
-	git log sýnir history
-	git status sýnir stöðu hjá "files" hja þér
-	git diff til að sjá mun á milli skjala
-	git checkout skiptir um branch
-
-3. Hver er munurinn á eftirfarandi git skipunum:
-	a) git diff 
-	b) git diff --staged 
-	c) git diff commit1 commit2
-
-4. 	Hvað er útgáfustýring (e.version control)? 
-
-5.	Hverjir eru helstu kostir við að nota GIT?
-
-6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
-
-7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
-
-8.	Hvenær er sniðugt að nota greinar (branches)? 
-
-9.	Hver fann upp GIT?
-	Linus torvalds
-10.	Hvar er GIT helst notað?
-	linux
+	a:cd = fer inn í möppu
+	b:cd ~ = fer tilbaka á heimasvæði
+	c:ls = sýnir þér innihald möppu
+	d:pwd = segir þér hvaða möppu þú ert í
+	e:mkdir = býr til möppu
